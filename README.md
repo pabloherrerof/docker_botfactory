@@ -1,7 +1,7 @@
 
 # Bot Factory
 
-Proyecto elaborado con Laravel, Nextjs, MySQL para la gestión de clientes de los distintos usuarios. En la carpeta api encontraremos la API REST desarrollada con Laravel y en la carpeta ui el front elaborado con Nextjs, usando distintas librerias como Zustand, StyledComponents, React-scroll,... 
+Proyecto elaborado con Laravel, Nextjs, MySQL para la gestión de clientes de los distintos usuarios. En la carpeta api encontraremos la API REST desarrollada con Laravel y en la carpeta ui el front elaborado con Nextjs, usando distintas librerias como Zustand, StyledComponents, Framer-motion, React-scroll,... 
 
 
 
@@ -11,7 +11,7 @@ Proyecto elaborado con Laravel, Nextjs, MySQL para la gestión de clientes de lo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/pabloherrerof/docker_botfactory.git
 ```
 
 Go to the project directory
