@@ -30,17 +30,17 @@ Run docker
 ./vendor/bin/sail up
 ```
 
-Run migrations
+Run migrations on /api directory
 ```bash
 ./vendor/bin/sail php artisan migrate
 ```
 
-Run database seeders
+Run database seeders on /api directory
 ```bash
 ./vendor/bin/sail php artisan db:seed
 ```
 
-Run storage link
+Run storage link on /api directory
 ```bash
 ./vendor/bin/sail php artisan storage:link
 ```
