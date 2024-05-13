@@ -45,6 +45,16 @@ Run storage link on /api directory
 ./vendor/bin/sail php artisan storage:link
 ```
 
+User credentials:
+
+  - username: user1@botfactory.com
+  - password: password1
+
+  - username: user2@botfactory.com
+  - password: password2
+
+  - username: user3@botfactory.com
+  - password: password3
 
 
 ## Authors
