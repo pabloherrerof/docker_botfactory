@@ -20,6 +20,11 @@ Go to the project directory
   cd docker_botfactory/api
 ```
 
+Composer install
+```bash
+  composer install
+```
+
 Run docker
 ```bash
   ./vendor/bin/sail up
