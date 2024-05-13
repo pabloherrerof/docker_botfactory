@@ -11,38 +11,38 @@ Proyecto elaborado con Laravel, Nextjs, MySQL para la gestión de clientes de lo
 Clone the project
 
 ```bash
-  git clone https://github.com/pabloherrerof/docker_botfactory.git
+git clone https://github.com/pabloherrerof/docker_botfactory.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd docker_botfactory/api
+cd docker_botfactory/api
 ```
 
 Composer install
 ```bash
-  composer install
+composer install
 ```
 
 Run docker
 ```bash
-  ./vendor/bin/sail up
+./vendor/bin/sail up
 ```
 
 Run migrations
 ```bash
-  ./vendor/bin/sail php artisan migrate
+./vendor/bin/sail php artisan migrate
 ```
 
 Run database seeders
 ```bash
-  ./vendor/bin/sail php artisan db:seed
+./vendor/bin/sail php artisan db:seed
 ```
 
 Run storage link
 ```bash
-  ./vendor/bin/sail php artisan storage:link
+./vendor/bin/sail php artisan storage:link
 ```
 
 
