@@ -35,10 +35,14 @@ Run migrations
   ./vendor/bin/sail php artisan migrate
 ```
 
-
 Run database seeders
 ```bash
   ./vendor/bin/sail php artisan db:seed
+```
+
+Run storage link
+```bash
+  ./vendor/bin/sail php artisan storage:link
 ```
 
 
